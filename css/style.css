@@ -1,0 +1,74 @@
+body{
+ background-color: #E5E5E5;
+}
+h3{
+    color: blue;
+    
+}
+.navbar img{
+    height: 40px;
+    width: 40px;
+   border-radius: 50%;
+}
+
+
+.Player{
+    margin: 20px;
+    padding: 10px;
+    display: flex;
+
+}
+.Player img{
+    height: 100px;
+    width: 100px;
+    margin-top: 10px;
+}
+.col-md-4{
+ display: flex;
+ align-items: center;
+}
+.white-bg{
+    background-color: white;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 870px;
+    
+
+}
+.Blog img{
+
+    margin: 20px;
+    padding: 20px;
+    width: 167px;
+    height: 107px;
+    border-radius: 25px;
+
+}
+#card-course{
+    width: 870px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 20px;
+}
+.card-bg{
+width: 269.79px;
+border-radius: 20px;
+padding: 10px;
+box-shadow: 10px 10px 20px lightgrey;
+}
+.footer img{
+    width: 10px;
+    height: 10px;
+}
+.footer{
+    display: flex;
+}
+.box{
+    padding: 2px;
+ border-radius: 30px;
+ box-shadow: none;  
+ background-color: wheat;
+}
